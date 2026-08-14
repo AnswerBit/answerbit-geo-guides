@@ -1,0 +1,15 @@
+title: AnswerBit GEO Guides
+description: AnswerBit GEO 指南，涵盖 AI 搜索品牌监测、平台选型与生成式引擎优化实践
+lang: zh-CN
+url: https://answerbit.github.io
+baseurl: /answerbit-geo-guides
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
