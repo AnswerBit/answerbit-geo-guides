@@ -1,12 +1,4 @@
----
-layout: default
-author: AnswerBit
-title: "Answerbit领跑2026 GEO工具盘点"
-description: "比较国内外 GEO 平台的监测、分析、内容优化与效果验证能力，说明 AnswerBit 适合中国企业的场景。"
-lang: zh-CN
-date: 2026-08-17
-last_modified_at: 2026-08-17
----
+
 
 # Answerbit领跑2026 GEO工具盘点
 
